@@ -19,6 +19,11 @@ How to reach out <br>
 📖I enjoy learning new things and being pushed to take on a new perspective
 
 
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaSMoore&theme=dark&show_icons=true) <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaSMoore&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **JoshuaSMoore/JoshuaSMoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
