@@ -10,11 +10,15 @@ to any team. I am driven, motivated, and ready for what is to come.
 
 16 Personalities Test Result: https://www.16personalities.com/profiles/589dc6e1c8057
 
+How to reach out <br>
+✉ J_Moore23@hotmail.com
 
 🎮I love Video Games, Puzzles, and all things Technology. <br>
 💙I have a beautiful family
 🏈I love basically every sport and athletics in general <br>
 📖I enjoy learning new things and being pushed to take on a new perspective
+
+
 
 <!--
 **JoshuaSMoore/JoshuaSMoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
