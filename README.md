@@ -14,7 +14,7 @@ How to reach out <br>
 ✉ J_Moore23@hotmail.com
 
 🎮I love Video Games, Puzzles, and all things Technology. <br>
-💙I have a beautiful family
+💙I have a beautiful family<br>
 🏈I love basically every sport and athletics in general <br>
 📖I enjoy learning new things and being pushed to take on a new perspective
 
@@ -22,6 +22,8 @@ How to reach out <br>
 ![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaSMoore&theme=tokyonight&show_icons=true) <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaSMoore&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=JoshuaSMoore)
 
 
 
