@@ -4,7 +4,7 @@ I am extremely excited about this road I am currently going down and the impacts
 I have always thrived being around technology and have had a very strong love for working through problems to have
 a better understanding of the how and why behind why the scenes. 
 
-I have years of management experience and as well as tech support which I think will make me a valuble resource 
+I have years of management experience as well as tech support which I think will make me a valuble resource 
 to any team. I am driven, motivated, and ready for what is to come. 
 
 
