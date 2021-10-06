@@ -11,7 +11,7 @@ to any team. I am driven, motivated, and ready for what is to come.
 16 Personalities Test Result: https://www.16personalities.com/profiles/589dc6e1c8057
 
 How to reach out <br>
-✉ J_Moore23@hotmail.com
+✉ J_Moore23@hotmail.com <br>
 LinkedIn: https://www.linkedin.com/in/joshuasmoore7/
 
 🎮I love Video Games, Puzzles, and all things Technology. <br>
