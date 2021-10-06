@@ -12,6 +12,7 @@ to any team. I am driven, motivated, and ready for what is to come.
 
 How to reach out <br>
 ✉ J_Moore23@hotmail.com
+LinkedIn: https://www.linkedin.com/in/joshuasmoore7/
 
 🎮I love Video Games, Puzzles, and all things Technology. <br>
 💙I have a beautiful family<br>
